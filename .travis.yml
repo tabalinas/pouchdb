@@ -123,4 +123,5 @@ branches:
 
 cache:
   directories:
+  - $HOME/docker
   - $HOME/.npm
